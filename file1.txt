@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 just created the file YOOOOO
+=======
+modified in new just after creation
+>>>>>>> new
